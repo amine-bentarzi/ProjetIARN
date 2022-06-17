@@ -1,0 +1,1 @@
+pm call major arm deal save stormont 

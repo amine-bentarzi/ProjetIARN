@@ -1,0 +1,1 @@
+httpaddr line    rpm   leave list empty disable allowedduppkgs   kerneldollar    kernelsmp    kernelenterprise     holdpkgs   kernelsource    kernelheaders        tell apt hold kernel package  use syntax like  kernel     nt quite understand part  kerneldollar   mean   peter  rpmlist mailing list httpaddr

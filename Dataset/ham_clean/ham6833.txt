@@ -1,0 +1,1 @@
+feature  excerpted wolfgang engel s shaderx book wordware publishing  present simple shader trick performs good per pixel approximation noninteger power function  technique work input value number number support large exponent  presented shader require texture lookup scalable  making possible spend instruction order decrease error reach greater exponent 

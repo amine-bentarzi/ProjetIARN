@@ -1,0 +1,1 @@
+note self  read pingback spec  number   form opinion   number  httpaddr

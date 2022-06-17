@@ -1,0 +1,1 @@
+actually like neale s xspamdisposition header  wonder maybe choose something different prefix  xspam  people nt confuse spamassassin  whose header begin prefix  also  sort version information would useful  perhaps cv version number classifier module could tacked  skip

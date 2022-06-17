@@ -1,0 +1,1 @@
+hey since upgraded redhatnumber mplayer vo sdl isnt working give black screen hear sound  anyone help  btw  also source rpm specified  without libdv nt work  worked lirc art  thanks  roi  rpmlist mailing list httpaddr

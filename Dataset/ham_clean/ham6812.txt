@@ -1,0 +1,1 @@
+ian hickson   include httpaddr  number     number  used perl s niftier feature  using method lookup instead switch statement preprocessing instruction dispatching  exception instead passing error code back forth   number   perl programmer cute imitate python programmer   number  httpaddr

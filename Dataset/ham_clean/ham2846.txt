@@ -1,0 +1,1 @@
+hi  john hinsley wrote   querying rpm database opengl get nowhere fast  anyone  point right direction   redhat  provides opengl  x server   depending driver   software fallback called mesa compiled x server  used fallback   installed x  opengl  try glxinfo command see capability provided x system   r   rpmlist mailing list httpaddr

@@ -1,0 +1,1 @@
+justin mason writes   hmm  also think ve found case s hitting fetchmail  received hdrs  s bad  could fixed  fetchmail add received header  seems wrong  ll open bug investigate  attach example   yeah   somehow  pity bugzilla nt allow email  submission  agreed  least add information email   dan

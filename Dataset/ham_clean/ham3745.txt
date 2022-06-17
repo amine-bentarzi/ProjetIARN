@@ -1,0 +1,1 @@
+ tim   never used configparser  read read    method silently ignores file nt exist  httpaddr   nt found   none  option defined   note since got rid httpaddr  s embedded httpaddr   searchpath issue wo nt burn anymore  intended way customize tokenizer tester via creating httpaddr ll get burned searchpath issue wrt instead 

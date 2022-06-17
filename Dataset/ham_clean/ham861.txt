@@ -1,0 +1,1 @@
+matthias haase wrote   recompile sprm failed       rpm build error   file found glob   httpaddr   file found  httpaddr weird  problem rebuilding srpm specfile modified enable bytecode interpreter   checkfiles  test warns  usrshareaclocalfreetypenumbermnumber  included package   s perfectly clean   rpmlist mailing list httpaddr

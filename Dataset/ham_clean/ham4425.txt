@@ -1,0 +1,1 @@
+scripting language allow rapid development game behavior without pitfall await unwary c programmer  using existing scripting language save time cost developing custom language  typically give far powerful language could create  python excellent choice game scripting language powerful  easily embedded  seamlessly extended cc code

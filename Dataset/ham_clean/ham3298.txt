@@ -1,0 +1,1 @@
+httpaddr     error  tripwire database jalapeno found          run httpaddr andor tripwire  init     

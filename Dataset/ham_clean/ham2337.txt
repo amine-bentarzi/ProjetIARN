@@ -1,0 +1,1 @@
+this function print number number  void printnums    int    number   numberl  i   printf    dn      

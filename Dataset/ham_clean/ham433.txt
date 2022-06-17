@@ -1,0 +1,1 @@
+hi try rebuild xine src package get error       finding provides  usrlibrpmfindprovides finding requires  usrlibrpmfindrequires prereq  rpmlib  payloadfileshaveprefix  httpaddr

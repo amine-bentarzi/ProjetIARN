@@ -1,0 +1,1 @@
+problem spamtrap httpaddr homeyyyyftpspamassassinspamassassin  file directory

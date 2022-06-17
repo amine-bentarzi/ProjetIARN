@@ -1,0 +1,1 @@
+halloechen  create rpm according one howto s red hat mind  big chance also work suse distribution  others   nt know many base rpm system   must pay attention creating rpm work big distribution  tschoe  torsten   rpmlist mailing list httpaddr

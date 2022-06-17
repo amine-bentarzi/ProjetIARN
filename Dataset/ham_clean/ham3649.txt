@@ -1,0 +1,1 @@
+ guido      program act pop client pop server   configure telling real pop server   point mail reader pop server localhost   receives connection  connects remote pop server  read  mail  give nonspam  fyi  ll never trust scheme  tolerance false positive  indeed nothing try block spam email account reason  deliver suspected spam spam folder instead d love 

@@ -1,0 +1,1 @@
+ jeremy hylton   s clarification  s pretty much guessed  thanks  one try   first test result using httpaddr    unmodified     second test result using httpaddr     us header except received  data  xfrom    try latter  call base tokenizeheaders   
